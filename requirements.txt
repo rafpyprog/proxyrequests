@@ -1,0 +1,6 @@
+beautifulsoup4
+black
+dateparser
+lxml
+pytest
+requests

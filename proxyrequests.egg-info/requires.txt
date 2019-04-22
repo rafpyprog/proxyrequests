@@ -1,0 +1,4 @@
+beautifulsoup4>=4.7.1
+dateparser>=0.7.1
+lxml>=4.3.3
+requests>=2.21.0

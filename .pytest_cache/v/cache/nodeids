@@ -1,0 +1,5 @@
+[
+  "tests/test_proxy.py::test_get_proxies",
+  "tests/test_proxy.py::test_get_proxies_filter_country",
+  "tests/test_proxy.py::test_ProxyRequests"
+]

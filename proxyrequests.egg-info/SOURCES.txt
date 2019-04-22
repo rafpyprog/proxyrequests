@@ -1,0 +1,8 @@
+setup.py
+proxyrequests/__init__.py
+proxyrequests/proxy.py
+proxyrequests.egg-info/PKG-INFO
+proxyrequests.egg-info/SOURCES.txt
+proxyrequests.egg-info/dependency_links.txt
+proxyrequests.egg-info/requires.txt
+proxyrequests.egg-info/top_level.txt
